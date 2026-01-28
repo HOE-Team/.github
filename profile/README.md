@@ -1,7 +1,7 @@
 <h1 align="center">HOE Team</h1>
 
 <p align="center">
-  <img src="logo.png" alt="HOE Team Logo" width="150" style="border-radius: 20px;">
+  <img src="https://avatars.githubusercontent.com/u/201366682?s=200&v=4" alt="HOE Team Logo" width="150">
 </p>
 
 <h3 align="center">Harmony, Openness, Equality</h3>

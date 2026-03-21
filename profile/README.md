@@ -50,7 +50,7 @@ HOE Team 是由 [GoldenHoe](https://github.com/GoldenHoe) 与 [TNTyep520](https:
 - **[OpenDroidChat](https://github.com/HOE-Team/OpenDroidChat)** - 适配 Android 6.0+ 的 LLM API 聊天客户端，提供流畅的 AI 对话体验。
 
 ### 技术计划
-- **[PLAN NO](profile/docs/INTRODUCE_PLAN_NO.md)** - HOE Team 的技术计划，核心目标是复刻、优化并超越某些挂羊头卖狗肉、开源违规或闭源侵权的劣迹项目。我们坚持用现代技术栈、遵守开源规则、提供透明合规的替代方案。
+- **[PLAN NO](docs/INTRODUCE_PLAN_NO.md)** - HOE Team 的技术计划，核心目标是复刻、优化并超越某些挂羊头卖狗肉、开源违规或闭源侵权的劣迹项目。我们坚持用现代技术栈、遵守开源规则、提供透明合规的替代方案。
 
 *更多项目正在开发中，欢迎关注我们的 [组织主页](https://github.com/HOE-Team)！*
 

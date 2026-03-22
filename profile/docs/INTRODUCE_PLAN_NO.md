@@ -10,6 +10,9 @@
   <strong>开源、透明、合规地打造更优秀的闭源违规工具替代方案</strong>
 </p>
 
+> [!NOTE]
+> PLAN NO 计划主题壁纸已推出！[立即获取！[↗]](images\wp\PLAN_NO_WP_1920x1080_W.png)
+
 <p align="center">
   <a href="#-计划概述">计划概述</a> ·
   <a href="#-计划目标">计划目标</a> ·
@@ -96,7 +99,8 @@ PLAN NO 是完全开放的计划，欢迎所有人参与！
 1. **使用计划成果** - 下载、安装、测试，提供使用反馈
 2. **报告问题** - 发现 bug 就提 Issue，我们会及时修复
 3. **提交代码** - 想加功能就写代码，我们审核合并
-4. **推广宣传** - 告诉更多人，用合规的工具替代灰色的
+4. **使用主题壁纸** - 下载 [PLAN NO 主题壁纸](./images/wp/PLAN_NO_WP_1920x1080_W.png)，为您的设备增添“拒绝违规”的技术氛围
+5. **推广宣传** - 告诉更多人，用合规的工具替代灰色的
 
 > [!NOTE]
 > PLAN NO 文档采用 CC BY-NC-SA 4.0 许可发布，允许署名引用，禁止商业用途，要求相同方式共享。
@@ -109,12 +113,18 @@ PLAN NO 是完全开放的计划，欢迎所有人参与！
   - 禁止商业用途
   - 要求相同方式共享
 
-### 徽标许可证
-- **计划徽标**：CC BY-NC-ND 4.0
+### 徽标与壁纸许可证
+- **计划徽标**：CC BY-NC-SA 4.0
   - 允许署名引用
   - 禁止商业用途
-  - 禁止修改创作
-
+  - 要求相同方式共享
+  - **徽标字体**：使用基于 [SIL Open Font License (OFL)](https://fonts.google.com/specimen/Poppins/license) 发布的 [Poppins](https://fonts.google.com/specimen/Poppins) 字体创作
+- **主题壁纸**：CC BY-NC-SA 4.0
+  - 允许署名引用
+  - 禁止商业用途
+  - 要求相同方式共享
+  - 壁纸存放于 `docs/images/wp/` 目录下
+  - 壁纸同样使用基于 SIL Open Font License (OFL) 发布的 Poppins 字体
 ---
 
 <p align="center">

@@ -11,7 +11,7 @@
 </p>
 
 > [!NOTE]
-> PLAN NO 计划主题壁纸已推出！[立即获取！[↗]](images\wp\PLAN_NO_WP_1920x1080_W.png)
+> PLAN NO 计划主题壁纸已推出！[立即获取！[↗]](./images/wp/PLAN_NO_WP_1920x1080_W.png)
 
 <p align="center">
   <a href="#-计划概述">计划概述</a> ·

@@ -10,14 +10,6 @@
   <strong>社区驱动的技术团体 | Android & Python GUI 应用开发 | 实用工具创造者</strong>
 </p>
 
-<p align="center">
-  <a href="#-关于我们">关于我们</a> •
-  <a href="#-技术栈">技术栈</a> •
-  <a href="#-项目展示">项目展示</a> •
-  <a href="#-如何参与">如何参与</a> •
-  <a href="#-行为准则">行为准则</a> •
-  <a href="#-联系我们">联系我们</a>
-</p>
 
 ## 🌟 关于我们
 

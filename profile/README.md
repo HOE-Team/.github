@@ -1,7 +1,7 @@
 <h1 align="center">HOE Team</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/201366682?s=200&v=4" alt="HOE Team Logo" width="150">
+  <img src="logo.png" alt="HOE Team Logo" width="150">
 </p>
 
 <h3 align="center">Harmony, Openness, Equality</h3>
@@ -76,6 +76,7 @@ HOE Team 是由 [GoldenHoe](https://github.com/GoldenHoe) 与 [TNTyep520](https:
 ## 📞 联系我们
 
 - **组织主页**: [github.com/HOE-Team](https://github.com/HOE-Team)
+- **组织QQ群**: 1081639867(HOE Team Communication Group)
 - **联系邮箱**: hoe_software_team@outlook.com
 - **问题反馈**: 请使用各仓库的 Issues 功能
 - **讨论交流**: 欢迎在项目 Discussions 中发起话题

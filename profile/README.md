@@ -1,7 +1,8 @@
 <h1 align="center">HOE Team</h1>
 
 <p align="center">
-  <img src="logo.png" alt="HOE Team Logo" width="150">
+  <img src="./docs/images/HOE_Team_Logo_2.png" height="100">
+  <img src="logo.png" alt="HOE Team Logo" height="100">
 </p>
 
 <h3 align="center">Harmony, Openness, Equality</h3>

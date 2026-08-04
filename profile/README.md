@@ -39,7 +39,7 @@ HOE Team 是由 [GoldenHoe](https://github.com/GoldenHoe) 与 [TNTyep520](https:
 ## 📂 项目展示
 
 ### 重点项目
-- **[MCSEasy](https://github.com/HOE-Team/MCSEasy)** - 轻量、简洁的 Minecraft 服务器管理工具，帮助用户更简单地部署和管理服务器。
+- **[NOT Toolbox](https://github.com/HOE-Team/not-toolbox)** - 跨平台，去本地化的工具箱应用。
 - **[OpenDroidChat](https://github.com/HOE-Team/OpenDroidChat)** - 适配 Android 6.0+ 的 LLM API 聊天客户端，提供流畅的 AI 对话体验。
 
 ### 技术计划

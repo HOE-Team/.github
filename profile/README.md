@@ -1,4 +1,4 @@
-<h1 align="center">HOE Team</h1>
+<h1 align="center">HOE Team/谐界团队</h1>
 
 <p align="center">
   <img src="./docs/images/HOE_Team_Logo_2.png" height="100">
